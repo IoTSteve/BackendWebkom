@@ -1,0 +1,16 @@
+{
+    "name": "webkom",
+    "version": "0.0.0",
+    "description": "",
+    "main": "src/index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "start": "node src",
+        "lint": "eslint src"
+    },
+    "author": "Steve",
+    "license": "ISC",
+    "dependencies": {
+        "axios": "^0.19.2"
+    }
+}
